@@ -1,5 +1,4 @@
-# Lab 02: Windows Failed Logon Analysis with Splunk
-
+# [Lab 02: Windows Failed Logon Analysis with Splunk](lab-02-windows-failed-logon-analysis/README.md)
 ## 1. Objective
 
 The objective of this lab was to collect and analyze Windows Security event logs using Splunk Enterprise, identify failed logon attempts (Event ID 4625), and understand how authentication events can help a Security Operations Center (SOC) analyst investigate potentially suspicious activity.
@@ -143,3 +142,4 @@ By generating controlled failed logons and searching for Event ID 4625, I observ
 The exercise strengthened my understanding of basic log analysis and authentication monitoring. It also provided a foundation for future labs involving correlation searches, threshold-based detections, alert configuration, and security incident investigation.
 
 **Lab Status:** Completed — log collection, SPL searches, and controlled failed-logon analysis performed.
+
